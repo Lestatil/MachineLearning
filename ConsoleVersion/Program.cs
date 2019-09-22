@@ -10,6 +10,8 @@ namespace ConsoleVersion
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello! Its me, ur first commit!"); //My first commit to this repo.
+            Console.ReadLine();
         }
     }
 }
